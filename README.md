@@ -1,6 +1,10 @@
+**No longer being worked on. Please see [nAnts](https://github.com/jladan/nAnts/) for the newer typescript-based version**
+
 # Introduction
 
-nAnjs is a library providing the tools for numerical analysis in the browser 100% clientside. The primary goal is to perform accurate and efficient mathematical simulations in the browser, without requiring any additional libraries. This is not a large-scale numerical analysis library, so don't expect to use it for large, high-dimensional problems.
+nAnjs was meant to be a library providing the tools for numerical analysis in the browser 100% clientside. I decided to convert the library to typescript, and provide separately compiled javascript libraries. Please see [nAnts](https://github.com/jladan/nAnts/) for the newer typescript-based version.
+
+The primary goal is to perform accurate and efficient mathematical simulations in the browser, without requiring any additional libraries. This is not a large-scale numerical analysis library, so don't expect to use it for large, high-dimensional problems.
 
 # Features
 
